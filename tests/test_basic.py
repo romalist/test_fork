@@ -2,7 +2,7 @@ import unittest
 import sys
 from add import add
 
-print("Enter")
+print("Enter script")
 print(sys.argv[0])
 
 

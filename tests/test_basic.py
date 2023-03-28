@@ -1,8 +1,7 @@
 import unittest
 import sys
-
+print("Enter")
 print(sys.argv[0])
-
 from add import add
 
 class TestBasic(unittest.TestCase):

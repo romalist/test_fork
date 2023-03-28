@@ -1,4 +1,8 @@
 import unittest
+import sys
+
+print(sys.argv[0])
+
 from add import add
 
 class TestBasic(unittest.TestCase):
